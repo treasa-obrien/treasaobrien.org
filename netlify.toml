@@ -1,0 +1,7 @@
+# netlify.toml for treasaobrien
+[build]
+    # command = "yarn run build"
+    # functions = "functions"
+    publish = "dist"
+
+## more info https://www.netlify.com/docs/netlify-toml-reference/
